@@ -13,7 +13,7 @@ This Power BI dashboard transforms **messy, unstructured sales data** from multi
 ## Raw Data --> Model --> Data Story
 ![](https://github.com/stevejobs27/costco_retail_project/blob/main/etl.png) 
 
-![final output](
+![final output](https://github.com/stevejobs27/costco_retail_project/blob/main/finaloutputpowerbi.png)
 ---
 [Explore the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBmODUwMmUtMDMzMC00OTUzLWE2MWMtYmUwZTJiODM3ZjJlIiwidCI6ImY3NDM5NmYzLTgwMTUtNGI3NC1iNDY4LWNkYTA0NTEzZDg0YyJ9)
  
