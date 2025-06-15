@@ -22,7 +22,4 @@ This Power BI dashboard transforms **messy, unstructured sales data** from multi
 - **Dynamic Dashboard:** Created an interactive **custom slicer pane** for filtering by category, region, segment, and year.  
 - **Business Impact:** Enables stakeholders to **track sales trends, identify top-performing products, and compare targets vs. actual sales** at a glance.  
 
-## 📜 License & Copyright  
-- 📌 **Data:** This project uses **simulated sales data** for educational purposes.  
-- ⚖️ **License:** Open-source under the **MIT License** – feel free to explore and modify.  
-- © **2025 Najir H. | All Rights Reserved**  
+  
