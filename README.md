@@ -15,7 +15,7 @@ This Power BI dashboard transforms **messy, unstructured sales data** from multi
 
 ![final output](https://github.com/stevejobs27/costco_retail_project/blob/main/finaloutputpowerbi.png)
 ---
-[Explore the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBmODUwMmUtMDMzMC00OTUzLWE2MWMtYmUwZTJiODM3ZjJlIiwidCI6ImY3NDM5NmYzLTgwMTUtNGI3NC1iNDY4LWNkYTA0NTEzZDg0YyJ9)
+[Explore the dashboard](https://app.powerbi.com/groups/me/reports/946f8686-71a4-495b-8a16-346bf2f5186b/1cd32047240e72ffeaa8?redirectedFromSignup=1&experience=power-bi)
  
 
 ## 🔍 Key Features  
